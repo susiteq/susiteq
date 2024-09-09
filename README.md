@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @susiteq
-- 👀 I’m interested in C# and JS
-- 🌱 I’m currently learning C# and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Django
+
 
 <!---
 susiteq/susiteq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
