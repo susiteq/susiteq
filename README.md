@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susiteq
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python and Django
+- 🌱 I´m interested in React and Redux
 
 
 <!---
