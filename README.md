@@ -4,6 +4,6 @@
       location: "Regensburg, Germany",
       code: ["Python", "Typescript", "Javascript", "HTML", "CSS"],
       tools: ["Django", "Wagtail", "React", "NextJS", "Redux", "Docker", "TailwindCSS"],
-      passion: ["Generative AI"]
+      passion: ["Generative AI, "Vibe-Coding"]
     }
   
